@@ -66,7 +66,7 @@ Define the terms that are essential to this chapter.
 #### Orgarnelle Types:
 
 | Term | Definition |
-|--------------------------|---------------------------------------------|
+|---------------------------|---------------------------------------------|
 | Rough Endoplasmic Reticulum | ***Membrane network with ribosomes that makes and folds proteins.*** |
 | Smooth Endoplasmic reticulum | ***Membrane network that makes lipids, detoxifies substances, and stores calcium.*** |
 | Golgi apparatus | ***Modifies, sorts, and packages proteins and lipids for transport.*** |
@@ -104,7 +104,7 @@ Identify the stages of mitosis and briefly describe their appearance.
 **Table 3.1 Table of Events and Cell Characteristics**
 
 | Stage | Events | Appearance of cell |
-|----------------------|-----------------|---------------------------------|
+|----------------------|------------------|--------------------------------|
 | Prophase | ***Chromatin condenses into chromosomes, the nuclear envelope breaks down, and spindle fibers form.*** | ***Chromosomes become visible and the nucleus starts disappearing.*** |
 | Metaphase | ***Chromosomes line up at the center of the cell.*** | ***Chromosomes appear in a straight line across the middle.*** |
 | Anaphase | ***Sister chromatids separate and move to opposite poles.*** | ***Chromatids look pulled apart toward opposite ends.*** |
@@ -144,15 +144,15 @@ Cell Membrane Structure; Label the structures in this diagram of a typical cell 
 
 **Figure 3.2** Diagram of the cell membrane.
 
-|     |                                        |
-|-----|----------------------------------------|
-| a   | ***Carbohydrate chain***               |
-| b   | ***Glycoprotein***                     |
-| c   | ***Glycolipid***                       |
-| d   | ***Cholesterol***                      |
-| e   | ***Integral protein/channel protein*** |
-| f   | ***Phospholipid bilayer***             |
-| g   | ***Peripheral protein***               |
+|     |                            |
+|-----|----------------------------|
+| a   | ***Carbohydrate***         |
+| b   | ***Glycolipid***           |
+| c   | ***Surface protein***      |
+| d   | ***Globular filament***    |
+| e   | ***Cholesterol***          |
+| f   | ***Protein channel***      |
+| g   | ***Phospholipid bilayer*** |
 
 ## **Prelab Activity 3.5**
 
@@ -272,23 +272,23 @@ Using the information in table 3.2 review the cells structures and function(s) t
 **Table 3.1 Identify the Organelles and their Function.**
 
 | Structure | Model Number | Organelle function |
-|---------------------------------|------------------|----------------------|
-| Plasma membrane | ***Lab model number required*** | ***Controls what enters and leaves the cell.*** |
-| Cilia | ***Lab model number required*** | ***Move substances across the cell surface.*** |
-| Microvilli | ***Lab model number required*** | ***Increase surface area for absorption.*** |
-| Nucleolus | ***Lab model number required*** | ***Produces ribosome components.*** |
-| Nucleus | ***Lab model number required*** | ***Contains DNA and controls cell activity.*** |
-| Nuclear envelope | ***Lab model number required*** | ***Double membrane that surrounds and protects the nucleus.*** |
-| Nuclear pore | ***Lab model number required*** | ***Allows materials to pass between nucleus and cytoplasm.*** |
-| Ribosome | ***Lab model number required*** | ***Site of protein synthesis.*** |
-| Vesicle | ***Lab model number required*** | ***Transports or stores materials in the cell.*** |
-| Peroxisome | ***Lab model number required*** | ***Breaks down fatty acids and detoxifies peroxide.*** |
-| Lysosome | ***Lab model number required*** | ***Digests wastes and worn-out cell parts.*** |
-| Golgi apparatus | ***Lab model number required*** | ***Modifies, sorts, and packages proteins and lipids.*** |
-| Mitochondrion | ***Lab model number required*** | ***Produces ATP energy.*** |
-| Rough endoplasmic reticulum | ***Lab model number required*** | ***Makes and folds proteins.*** |
-| Smooth endoplasmic reticulum | ***Lab model number required*** | ***Makes lipids and detoxifies substances.*** |
-| Centriole | ***Lab model number required*** | ***Organizes spindle fibers during cell division.*** |
+|----------------------------|------------------|--------------------------|
+| Plasma membrane |  | ***Controls what enters and leaves the cell.*** |
+| Cilia |  | ***Move substances across the cell surface.*** |
+| Microvilli |  | ***Increase surface area for absorption.*** |
+| Nucleolus |  | ***Produces ribosome components.*** |
+| Nucleus |  | ***Contains DNA and controls cell activity.*** |
+| Nuclear envelope |  | ***Double membrane that surrounds and protects the nucleus.*** |
+| Nuclear pore |  | ***Allows materials to pass between nucleus and cytoplasm.*** |
+| Ribosome |  | ***Site of protein synthesis.*** |
+| Vesicle |  | ***Transports or stores materials in the cell.*** |
+| Peroxisome |  | ***Breaks down fatty acids and detoxifies peroxide.*** |
+| Lysosome |  | ***Digests wastes and worn-out cell parts.*** |
+| Golgi apparatus |  | ***Modifies, sorts, and packages proteins and lipids.*** |
+| Mitochondrion |  | ***Produces ATP energy.*** |
+| Rough endoplasmic reticulum |  | ***Makes and folds proteins.*** |
+| Smooth endoplasmic reticulum |  | ***Makes lipids and detoxifies substances.*** |
+| Centriole |  | ***Organizes spindle fibers during cell division.*** |
 
 **Table 3.2 Parts of a Typical Animal Cell**
 
@@ -500,16 +500,16 @@ Label the following stages of the nucleus and of mitosis
 
 **Table 3.4 Answers for Figure 3.25 above**
 
-| Number | Structure                             |
-|--------|---------------------------------------|
-| 1a     | ***Nuclear envelope/outer membrane*** |
-| 1b     | ***Nuclear envelope/inner membrane*** |
-| 2      | ***Nuclear pore***                    |
-| 3      | ***Nucleolus***                       |
-| 4a     | ***Chromatin***                       |
-| 4b     | ***Chromosome/condensed chromatin***  |
-| 5      | ***Nucleoplasm***                     |
-| 6      | ***Rough endoplasmic reticulum***     |
+| Number | Structure                               |
+|--------|-----------------------------------------|
+| 1a     | ***Nuclear envelope - outer membrane*** |
+| 1b     | ***Nuclear envelope - inner membrane*** |
+| 2      | ***Nucleolus***                         |
+| 3      | ***Nucleoplasm***                       |
+| 4a     | ***Chromatin - heterochromatin***       |
+| 4b     | ***Chromatin - euchromatin***           |
+| 5      | ***Ribosome***                          |
+| 6      | ***Nuclear pore***                      |
 
 ### **Stages of Mitosis**
 
@@ -519,12 +519,12 @@ Label the following stages of the nucleus and of mitosis
 
 **Table 3.5 Matching Answers for the Stages of Mitosis**
 
-| Letter | Stage of mitosis         |
-|--------|--------------------------|
-| a      | ***Interphase***         |
-| b      | ***Prophase***           |
-| c      | ***Metaphase***          |
-| e      | ***Anaphase/Telophase*** |
+| Letter | Stage of mitosis |
+|--------|------------------|
+| a      | ***Interphase*** |
+| b      | ***Prophase***   |
+| c      | ***Anaphase***   |
+| e      | ***Telophase***  |
 
 ## **Additional Learning Resources:**
 
