@@ -48,7 +48,7 @@ Using your textbook define or identify the following terms.
 **Epidermal Layer**
 
 | Term | Definition |
-|------------------------------------------|------------------------------|
+|----|----|
 | Epidermis | ***Outermost layer of the skin made of keratinized stratified squamous epithelium.*** |
 | Stratum corneum | ***Most superficial layer; dead, flattened, keratin-filled cells that protect the skin.*** |
 | Stratum lucidum | ***Thin, clear layer found only in thick skin of palms and soles.*** |
@@ -60,19 +60,19 @@ Using your textbook define or identify the following terms.
 **Dermal Layer**
 
 | Term | Definition |
-|------------------------------------------|------------------------------|
+|----|----|
 | Dermis | ***Middle skin layer made mostly of connective tissue; contains blood vessels, nerves, glands, and hair follicles.*** |
 | Papillary layer | ***Superficial dermis made of areolar connective tissue; forms dermal papillae.*** |
 | Reticular layer | ***Deeper, thicker dermis made of dense irregular connective tissue with collagen and elastic fibers.*** |
 
 | Term | Definition |
-|------------------------------------------|------------------------------|
+|----|----|
 | Subcutaneous Layer (Hypodermis) | ***Layer below the dermis made mostly of adipose and areolar connective tissue; stores fat, cushions, and anchors skin.*** |
 
 **Integumentary Structures**
 
 | Term | Definition |
-|-----------------------------------|-------------------------------------|
+|----|----|
 | Dermal papillae | ***Upward projections of the dermis that increase contact with the epidermis and may contain capillaries or touch receptors.*** |
 | Hair shaft | ***Part of the hair visible above the skin surface.*** |
 | Hair root | ***Part of the hair below the skin surface inside the follicle.*** |
@@ -148,7 +148,7 @@ The Integumentary system functions include but are not limited to the following 
 **Table 5.1 Epidermal Layers (Listed Superficial to Deep)**
 
 | Epidermal Layer | Major Features |
-|-----------------------------------------------|-------------------------|
+|----|----|
 | Stratum corneum | ***Dead, flattened, keratinized cells; main protective barrier.*** |
 | Stratum lucidum | ***Clear layer of dead cells found only in thick skin.*** |
 | Stratum granulosum | ***Cells flatten, keratinize, and release waterproofing lipids.*** |
@@ -193,7 +193,7 @@ The Integumentary system functions include but are not limited to the following 
 **Table 5.2 Epidermal layers listed superficial to deep.**
 
 | Epidermal Layer | Description |
-|-------------------------------------------|-----------------------------|
+|----|----|
 | Stratum corneum | ***Outermost layer of dead, keratinized cells that protect against abrasion and water loss.*** |
 | Stratum lucidum | ***Thin, transparent layer only found in thick skin.*** |
 | Stratum granulosum | ***Layer where keratinocytes flatten, fill with keratin, and begin to die.*** |
@@ -247,7 +247,7 @@ Describe the function of each of the listed dermal structures.
 **Table 5.3 Table of the Dermal Structures and their Function**
 
 | Dermal Structure | Function(s) |
-|---------------------------------------------------|---------------------|
+|----|----|
 | Dermal papillae | ***Increase surface contact between dermis and epidermis; help nourish epidermis and form fingerprints.*** |
 | Pore | ***Opening that allows sweat or secretions to reach the skin surface.*** |
 | Arrector pili muscle | ***Contracts to raise hairs and produce goosebumps.*** |
@@ -356,7 +356,7 @@ Using a model or diagram of the integumentary system, identify and describe the 
 ## **Table 5.4 Matching: Write the Letter of the Definition in the Column to the Left of the Term**
 
 | \# | Terms | Definitions |
-|-------|--------------|---------------------------------------------------|
+|----|----|----|
 | ***e*** | Pore | a\. The part of a hair projecting beyond the surface of the skin |
 | ***h*** | Arrector pili muscle | b\. An onion-shaped structure that is responsible for sensitivity to vibration and pressure |
 | ***g*** | Meissner's corpuscle | c\. Any of the small sacculated glands lodged in the substance of the derma, usually opening into the hair follicles, and secreting an oily material |
@@ -400,7 +400,7 @@ Match the statement blank with the correct answer.
 **Table 5.6 Match the statement with the best answer.**
 
 | Answer | Statement | Possible Answer |
-|-----------------|--------------------------------------|-----------------|
+|----|----|----|
 | a\. ***squamous epithelial tissue*** | The epidermis is composed of \_\_\_\_\_\_\_\_\_\_. | Hair bulb |
 | b\. ***stratum basale*** | The deepest layer of the epidermis. | Sudoriferous |
 | c\. ***keratinocytes; keratin*** | The majority of the cells of the epidermis are \_\_\_\_\_\_\_\_\_\_ , so-called because they make \_\_\_\_\_\_\_\_\_\_. | stratum basale |
@@ -503,13 +503,13 @@ Using the picture below, identify the substructures within the following accesso
 ***Papillary layer and reticular layer.***
 
 |   | List three major types of glands associated with the integumentary system and describe their function. |
-|-------------|-----------------------------------------------------------|
+|----|----|
 | a\) | ***Sebaceous glands: produce sebum to lubricate skin and hair.*** |
 | b\) | ***Merocrine/eccrine sweat glands: produce watery sweat for cooling.*** |
 | c\) | ***Apocrine sweat glands: produce thicker sweat into hair follicles in areas like axilla and groin.*** |
 
 |     | What are the three protective functions of the integumentary system? |
-|-------------|-----------------------------------------------------------|
+|-----|----------------------------------------------------------------------|
 | a\) | ***Protects against physical injury and abrasion.***                 |
 | b\) | ***Protects against pathogens and harmful chemicals.***              |
 | c\) | ***Prevents water loss and helps protect against UV damage.***       |
@@ -526,7 +526,7 @@ Using the picture below, identify the substructures within the following accesso
 ***Keratinized stratified squamous epithelium.***
 
 | 1\) | List the five layers of the epidermis found in thick skin. Indicate which layer is not present in thin skin. |
-|-------------|-----------------------------------------------------------|
+|----|----|
 | a\) | ***Stratum corneum.*** |
 | b\) | ***Stratum lucidum — not present in thin skin.*** |
 | c\) | ***Stratum granulosum.*** |
@@ -534,7 +534,7 @@ Using the picture below, identify the substructures within the following accesso
 | e\) | ***Stratum basale.*** |
 
 | 2\) | Identify four accessory structures found in the dermis, describe their function. |
-|-------------|-----------------------------------------------------------|
+|----|----|
 | a\) | ***Hair follicles: produce and hold hair.*** |
 | b\) | ***Sebaceous glands: secrete oil to lubricate hair and skin.*** |
 | c\) | ***Sweat glands: produce sweat for cooling.*** |
@@ -551,7 +551,7 @@ Using the picture below, identify the substructures within the following accesso
 **Chapter 5: Integumentary System**
 
 | Key Terms | Definitions |
-|-----------------------|-------------------------------------------------|
+|----|----|
 | acne | skin condition due to infected sebaceous glands |
 | albinism | genetic disorder that affects the skin, in which there is no melanin production |
 | apocrine sweat gland | sweat gland that is armpits and genital regions |
