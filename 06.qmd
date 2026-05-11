@@ -121,32 +121,32 @@ Identify the bones or regions on Figure 6.2. Indicate whether they belong to the
 
 **Table 6.1. Identify the Bones or Regions**
 
-| Number | Name of bone or region      | Division of skeletal system |
-|--------|-----------------------------|-----------------------------|
-| 1      | ***Spinal Column***         | ***Axial***                 |
-| 2      | ***Cervical Vertebrae***    | ***Axial***                 |
-| 3      | ***Thoracic Vertebrae***    | ***Axial***                 |
-| 4      | ***Lumbar Vertebrae***      | ***Axial***                 |
-| 5      | ***Sacrum***                | ***Axial***                 |
-| 6      | ***Coccyx***                | ***Axial***                 |
-| 7      | ***Skull***                 | ***Axial***                 |
-| 8      | ***Cranium***               | ***Axial***                 |
-| 9      | ***Figure label required*** | ***Figure label required*** |
-| 10     | ***Figure label required*** | ***Figure label required*** |
-| 11     | ***Figure label required*** | ***Figure label required*** |
-| 12     | ***Figure label required*** | ***Figure label required*** |
-| 13     | ***Figure label required*** | ***Figure label required*** |
-| 14     | ***Figure label required*** | ***Figure label required*** |
-| 15     | ***Figure label required*** | ***Figure label required*** |
-| 16     | ***Figure label required*** | ***Figure label required*** |
-| 17     | ***Figure label required*** | ***Figure label required*** |
-| 18     | ***Figure label required*** | ***Figure label required*** |
-| 19     | ***Figure label required*** | ***Figure label required*** |
-| 20     | ***Figure label required*** | ***Figure label required*** |
-| 21     | ***Figure label required*** | ***Figure label required*** |
-| 22     | ***Figure label required*** | ***Figure label required*** |
-| 23     | ***Figure label required*** | ***Figure label required*** |
-| 26     | ***Figure label required*** | ***Figure label required*** |
+| Number | Name of bone or region   | Division of skeletal system |
+|--------|--------------------------|-----------------------------|
+| 1      | ***Spinal Column***      | ***Axial***                 |
+| 2      | ***Cervical Vertebrae*** | ***Axial***                 |
+| 3      | ***Thoracic Vertebrae*** | ***Axial***                 |
+| 4      | ***Lumbar Vertebrae***   | ***Axial***                 |
+| 5      | ***Sacrum***             | ***Axial***                 |
+| 6      | ***Coccyx***             | ***Axial***                 |
+| 7      | ***Skull***              | ***Axial***                 |
+| 8      | ***Cranium***            | ***Axial***                 |
+| 9      | ***Mandible***           | ***Axial***                 |
+| 10     | ***Clavicle***           | ***Appendicular***          |
+| 11     | ***Manubrium***          | ***Axial***                 |
+| 12     | ***Sternum***            | ***Axial***                 |
+| 13     | ***Scapula***            | ***Appendicular***          |
+| 14     | ***Humerus***            | ***Appendicular***          |
+| 15     | ***Ribs***               | ***Axial***                 |
+| 16     | ***Radius***             | ***Appendicular***          |
+| 17     | ***Ulna***               | ***Appendicular***          |
+| 18     | ***Carpals***            | ***Appendicular***          |
+| 19     | ***Metacarpals***        | ***Appendicular***          |
+| 20     | ***Phalanges***          | ***Appendicular***          |
+| 21     | ***Femur***              | ***Appendicular***          |
+| 22     | ***Patella***            | ***Appendicular***          |
+| 23     | ***Tibia***              | ***Appendicular***          |
+| 26     | ***Fibula***             | ***Appendicular***          |
 
 ## **Lab Activities**
 
