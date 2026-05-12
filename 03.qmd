@@ -58,7 +58,7 @@ Define the terms that are essential to this chapter.
 ## **Cell Structure and Function**
 
 | Term | Definition |
-|---------------------------|---------------------------------------------|
+|----|----|
 | Cytoplasm | ***All material inside the cell membrane except the nucleus.*** |
 | Cytosol | ***The fluid portion of the cytoplasm where organelles are suspended.*** |
 | Organelles | ***Specialized cell structures that perform specific functions.*** |
@@ -66,7 +66,7 @@ Define the terms that are essential to this chapter.
 #### Orgarnelle Types:
 
 | Term | Definition |
-|---------------------------|---------------------------------------------|
+|----|----|
 | Rough Endoplasmic Reticulum | ***Membrane network with ribosomes that makes and folds proteins.*** |
 | Smooth Endoplasmic reticulum | ***Membrane network that makes lipids, detoxifies substances, and stores calcium.*** |
 | Golgi apparatus | ***Modifies, sorts, and packages proteins and lipids for transport.*** |
@@ -104,7 +104,7 @@ Identify the stages of mitosis and briefly describe their appearance.
 **Table 3.1 Table of Events and Cell Characteristics**
 
 | Stage | Events | Appearance of cell |
-|----------------------|------------------|--------------------------------|
+|----|----|----|
 | Prophase | ***Chromatin condenses into chromosomes, the nuclear envelope breaks down, and spindle fibers form.*** | ***Chromosomes become visible and the nucleus starts disappearing.*** |
 | Metaphase | ***Chromosomes line up at the center of the cell.*** | ***Chromosomes appear in a straight line across the middle.*** |
 | Anaphase | ***Sister chromatids separate and move to opposite poles.*** | ***Chromatids look pulled apart toward opposite ends.*** |
@@ -221,7 +221,7 @@ Define the following terms associated with the cell cycle.
 Organelles in the cell above are labelled as follows:
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | 1 | Nucleolus |
 | 2 | Nucleus |
 | 3 | Ribosome (dots as part of 5) |
@@ -272,7 +272,7 @@ Using the information in table 3.2 review the cells structures and function(s) t
 **Table 3.1 Identify the Organelles and their Function.**
 
 | Structure | Model Number | Organelle function |
-|----------------------------|------------------|--------------------------|
+|----|----|----|
 | Plasma membrane |  | ***Controls what enters and leaves the cell.*** |
 | Cilia |  | ***Move substances across the cell surface.*** |
 | Microvilli |  | ***Increase surface area for absorption.*** |
@@ -293,7 +293,7 @@ Using the information in table 3.2 review the cells structures and function(s) t
 **Table 3.2 Parts of a Typical Animal Cell**
 
 | Name | Function | Features | Appearance |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Centriole | Anchor for cytoskeleton, organizes cell division by forming spindle fibers | Visible only when active nuclear division takes place (mitosis) | ![Figure 3.7](images/clipboard-1934241572.png) |
 | Chromatin | A complex of DNA and protein found in eukaryotic cells whose primary function is to package long DNA molecules into more compact, denser structures | Most of the coloration of the nucleus is from the chromatin, except for that of the nucleolus. | ![Figure 3.8](images/clipboard-4062272061.png) |
 | Cytoplasm | All of the material within a eukaryotic cell, enclosed by the cell membrane, except for the cell nucleus | A clear sol-gel that may contain granular substances in it. | ![Figure 3.9](images/fig3_9.jpg) |
@@ -427,7 +427,7 @@ Examine the phases of mitosis from the figures below.
 ## **Table 3.2 Complete the Matching Activity**
 
 | Name | Description |
-|------------------------------------|------------------------------------|
+|----|----|
 | 1\) ***f*** Interphase | a\) The first stage of mitosis |
 | 2\) ***e*** G2 Phase | b\) The division of the cytoplasm of a cell |
 | 3\) ***i*** Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
@@ -474,7 +474,7 @@ Complete the crossword activity.
 Note: Except for the letters, Table 3.3 is a duplicate of Table 3.2. I decided not to remove the duplicates and keep the same activity and table numbers as in the source without skipping numbers.
 
 | Name | Description |
-|------------------------------------|------------------------------------|
+|----|----|
 | 1\) ***f*** Interphase | a\) The first stage of mitosis |
 | 2\) ***e*** G2 Phase | b\) The division of the cytoplasm of a cell |
 | 3\) ***i*** Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
@@ -563,7 +563,7 @@ The Cell:
 **Chapter 3: Cells Glossary**
 
 | Terms | Definitions |
-|------------------------------------|------------------------------------|
+|----|----|
 | active transport | form of transport across the cell membrane that requires input of cellular energy |
 | amphipathic | describes a molecule that exhibits a difference in polarity between its two ends, resulting in a difference in water solubility |
 | anaphase | third stage of mitosis (and meiosis), during which sister chromatids separate into two new nuclear regions of a dividing cell |

@@ -157,7 +157,7 @@ Use the pictures in the table below to review several tissue types, locate the e
 6.  For each tissue, describe how the anatomy of the tissue enables its functions.
 
 | Image | Name | Location | Function |
-|----------------------------------|---------------|------------|------------|
+|----|----|----|----|
 | ![Figure 4.3](images/ch4_0.jpg)**Figure 4.3** | ***Simple squamous epithelium*** | ***Alveoli of lungs; kidney glomeruli; capillary walls*** | ***Thin flat cells allow rapid diffusion and filtration.*** |
 | ![Figure 4.4](images/ch4_1.jpg)**Figure 4.4** | ***Simple cuboidal epithelium*** | ***Kidney tubules; small gland ducts; ovary surface*** | ***Cube-shaped cells allow secretion and absorption.*** |
 | ![Figure 4.5](images/ch4_2.jpg)**Figure 4.5** | ***Simple columnar epithelium*** | ***Digestive tract lining, especially stomach and intestines*** | ***Tall cells absorb and secrete; goblet cells produce mucus.*** |
@@ -424,7 +424,7 @@ Match the following tissue with its function or location.
 **Chapter 4: Histology/Tissues Glossary**
 
 | Terms | Definitions |
-|------------------------------------|------------------------------------|
+|----|----|
 | adipocytes | lipid storage cells |
 | adipose tissue | specialized areolar tissue rich in stored fat |
 | anchoring junction | mechanically attaches adjacent cells to each other or to the basement membrane |

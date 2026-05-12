@@ -90,7 +90,7 @@ Definitions: Define the following key terms
 **Bone Tissue**
 
 | Term | Definition |
-|--------------------------------------------|----------------------------|
+|----|----|
 | Osteocytes | ***Mature bone cells that maintain bone matrix.*** |
 | Matrix | ***Nonliving material around bone cells; made of collagen and mineral salts.*** |
 | Collagen fibers | ***Protein fibers that give bone flexibility and tensile strength.*** |
@@ -101,7 +101,7 @@ Definitions: Define the following key terms
 **Bone Classification:**
 
 | Term | Definition |
-|-----------------------------------------|-------------------------------|
+|----|----|
 | Long bonos | ***Bones longer than wide; act as levers for movement.*** |
 | Long bones | ***Bones longer than wide, such as femur or humerus.*** |
 | Short bones | ***Cube-shaped bones that provide stability with limited movement.*** |
@@ -192,7 +192,7 @@ Review the Information in this table before moving on to the next activity.
 **Table 6.2. Surface Features of Bone**
 
 | Feature | Description | Example |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Articulation | Where bones meet | Elbow joint |
 | Body | the largest, most prominent segment of bone. | diaphysis or shaft of long bones like the femur and humerus. |
 | Condyle | large prominence, which often provides structural support to the overlying hyaline cartilage. | knee joint (hinge joint), formed by the femoral lateral and medial condyles, and the tibial lateral and medial condyles. |
@@ -208,7 +208,7 @@ Review the Information in this table before moving on to the next activity.
 **Table 6.2 Surface Features of a Bone Used in Anatomy, continued**
 
 | Feature | Description | Example |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Notch | depression in a bone which can provide stabilization to an adjacent articulating bone | mandibular notch |
 | Sinus | cavity within any organ or tissue | paranasal sinuses |
 | Spinous Process | raised, sharp elevation of bone where muscles and connective tissue attach | skull at the base of the temporal bone |
@@ -239,7 +239,7 @@ Review the Information in this table before moving on to the next activity.
 **Table 6.3 Bone Classifications Based on Shape**
 
 | Classification | Features | Example(s) |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Long | Cylindrical shape; longer than wide | ***Femur; humerus*** |
 | Short | Cube shaped length, width, and thickness; relatively equal | ***Carpals; tarsals*** |
 | Flat | Thin and wide curved | ***Sternum; ribs; cranial bones*** |
@@ -402,7 +402,7 @@ Complete the following crossword puzzles.
 **Table 6.4 Match the term(s) on the right with its corresponding statement.**
 
 | Answer | Statement | Term(s) |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | ***d*** | ***Articular*** cartilage covers ends of long bones. | a\) axial |
 | ***e*** | Skeletal cartilage is enclosed by the ***perichondrium***. | b\) hyaline cartilage |
 | ***h*** | The bones of the limbs, shoulders, and hips make up the ***appendicular*** skeleton. | c\) epiphyseal line |
@@ -445,7 +445,7 @@ Label the structures within the bone.
 **Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy**
 
 | Term | Definition |
-|------------------------------------|------------------------------------|
+|----|----|
 | appendicular skeleton | the part of the human skeleton which support the limbs and the girdles that attach them to the body. |
 | articular cartilage | thin layer of cartilage covering an epiphysis; reduces friction and acts as a shock absorber |
 | articulation | where two bone surfaces meet |

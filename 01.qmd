@@ -131,63 +131,39 @@ Definitions: define the terms that are essential to this chapter.
 
 ### Directional terms
 
-+----------------------------------+--------------------------------------------------------------+
-| Term                             | Definition                                                   |
-+==================================+==============================================================+
-| Anterior (or ventral)            | ***Toward the front of the body.***                          |
-+----------------------------------+--------------------------------------------------------------+
-| Posterior (or dorsal)            | ***Toward the back of the body.***                           |
-+----------------------------------+--------------------------------------------------------------+
-| Superior (or cranial)            | ***Toward the head or upper part of the body.***             |
-+----------------------------------+--------------------------------------------------------------+
-| Inferior (or caudal)             | ***Away from the head; toward the lower part of the body.*** |
-+----------------------------------+--------------------------------------------------------------+
-| Lateral                          | ***Away from the midline of the body.***                     |
-+----------------------------------+--------------------------------------------------------------+
-| Medial                           | ***Toward the midline of the body.***                        |
-+----------------------------------+--------------------------------------------------------------+
-| Proximal                         | ***Closer to the point of attachment or trunk.***            |
-+----------------------------------+--------------------------------------------------------------+
-| Distal                           | ***Farther from the point of attachment or trunk.***         |
-+----------------------------------+--------------------------------------------------------------+
-| Superficial                      | ***Closer to the body surface.***                            |
-+----------------------------------+--------------------------------------------------------------+
-| Deep                             | ***Farther from the body surface; more internal.***          |
-+----------------------------------+--------------------------------------------------------------+
+| Term | Definition |
+|----|----|
+| Anterior (or ventral) | ***Toward the front of the body.*** |
+| Posterior (or dorsal) | ***Toward the back of the body.*** |
+| Superior (or cranial) | ***Toward the head or upper part of the body.*** |
+| Inferior (or caudal) | ***Away from the head; toward the lower part of the body.*** |
+| Lateral | ***Away from the midline of the body.*** |
+| Medial | ***Toward the midline of the body.*** |
+| Proximal | ***Closer to the point of attachment or trunk.*** |
+| Distal | ***Farther from the point of attachment or trunk.*** |
+| Superficial | ***Closer to the body surface.*** |
+| Deep | ***Farther from the body surface; more internal.*** |
 
 ### Body Cavities
 
-+----------------------------------+-----------------------------------------------------------------------------------------------+
-| Term                             | Definition                                                                                    |
-+==================================+===============================================================================================+
-| Cranial                          | ***Cavity inside the skull that contains the brain.***                                        |
-+----------------------------------+-----------------------------------------------------------------------------------------------+
-| Abdominal                        | ***Cavity that contains many digestive organs, such as the stomach, liver, and intestines.*** |
-+----------------------------------+-----------------------------------------------------------------------------------------------+
-| Pericardial                      | ***Cavity surrounding the heart.***                                                           |
-+----------------------------------+-----------------------------------------------------------------------------------------------+
-| Pleural                          | ***Cavity surrounding each lung.***                                                           |
-+----------------------------------+-----------------------------------------------------------------------------------------------+
-| Ventral                          | ***Anterior body cavity that includes the thoracic and abdominopelvic cavities.***            |
-+----------------------------------+-----------------------------------------------------------------------------------------------+
+| Term | Definition |
+|----|----|
+| Cranial | ***Cavity inside the skull that contains the brain.*** |
+| Abdominal | ***Cavity that contains many digestive organs, such as the stomach, liver, and intestines.*** |
+| Pericardial | ***Cavity surrounding the heart.*** |
+| Pleural | ***Cavity surrounding each lung.*** |
+| Ventral | ***Anterior body cavity that includes the thoracic and abdominopelvic cavities.*** |
 
 ### Body Planes
 
-+----------------------------------+--------------------------------------------------------------+
-| Term                             | Definition                                                   |
-+==================================+==============================================================+
-| Sagittal plane                   | ***Divides the body into left and right portions.***         |
-+----------------------------------+--------------------------------------------------------------+
-| Midsagittal plane                | ***Divides the body into equal left and right halves.***     |
-+----------------------------------+--------------------------------------------------------------+
-| Parasagittal plane               | ***Divides the body into unequal left and right portions.*** |
-+----------------------------------+--------------------------------------------------------------+
-| Frontal plane                    | ***Divides the body into anterior and posterior portions.*** |
-+----------------------------------+--------------------------------------------------------------+
-| Transverse plane                 | ***Divides the body into superior and inferior portions.***  |
-+----------------------------------+--------------------------------------------------------------+
-| Oblique plane                    | ***Divides the body at an angle.***                          |
-+----------------------------------+--------------------------------------------------------------+
+| Term | Definition |
+|----|----|
+| Sagittal plane | ***Divides the body into left and right portions.*** |
+| Midsagittal plane | ***Divides the body into equal left and right halves.*** |
+| Parasagittal plane | ***Divides the body into unequal left and right portions.*** |
+| Frontal plane | ***Divides the body into anterior and posterior portions.*** |
+| Transverse plane | ***Divides the body into superior and inferior portions.*** |
+| Oblique plane | ***Divides the body at an angle.*** |
 
 ## **Prelab Activity 1.2**
 
@@ -224,33 +200,20 @@ Using the lab manual or your textbook, list the 12 organ systems of the body bel
 
 **Table 1.2**. Identification of Organs and their Function
 
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| Organ System                     | Function                                                                          | Organs                                                                    |
-+==================================+===================================================================================+===========================================================================+
-| 1 - Integumentary system         | ***Protects the body, helps regulate temperature, and prevents water loss.***     | ***Skin, hair, nails, sweat glands, oil glands***                         |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| 2 - Skeletal system              | ***Supports the body, protects organs, stores minerals, and makes blood cells.*** | ***Bones, cartilage, ligaments, joints***                                 |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| 3 - Muscular system              | ***Produces movement, maintains posture, and produces heat.***                    | ***Skeletal muscles and tendons***                                        |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| 4 - Nervous system               | ***Controls rapid responses and detects changes inside and outside the body.***   | ***Brain, spinal cord, nerves, sensory receptors***                       |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| 5 - Endocrine system             | ***Releases hormones that regulate body processes.***                             | ***Pituitary, thyroid, adrenal glands, pancreas, ovaries/testes***        |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| 6 - Cardiovascular system        | ***Transports blood, oxygen, nutrients, hormones, and wastes.***                  | ***Heart, blood, blood vessels***                                         |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| 7 - Lymphatic/immune system      | ***Returns fluid to blood and helps defend against disease.***                    | ***Lymph nodes, lymph vessels, spleen, thymus, tonsils***                 |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| 8 - Respiratory system           | ***Brings in oxygen and removes carbon dioxide.***                                | ***Lungs, trachea, bronchi, nasal cavity, pharynx, larynx***              |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| 9 - Digestive system             | ***Breaks down food, absorbs nutrients, and eliminates solid waste.***            | ***Mouth, esophagus, stomach, intestines, liver, pancreas, gallbladder*** |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| 10 - Urinary system              | ***Removes nitrogenous wastes and regulates water, salts, and pH.***              | ***Kidneys, ureters, urinary bladder, urethra***                          |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| 11a - Male reproductive system   | ***Produces sperm and male sex hormones.***                                       | ***Testes, epididymis, vas deferens, prostate, penis***                   |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
-| 11b - Female reproductive system | ***Produces eggs and female sex hormones; supports pregnancy.***                  | ***Ovaries, uterine tubes, uterus, vagina, mammary glands***              |
-+----------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------+
+| Organ System | Function | Organs |
+|----|----|----|
+| 1 - Integumentary system | ***Protects the body, helps regulate temperature, and prevents water loss.*** | ***Skin, hair, nails, sweat glands, oil glands*** |
+| 2 - Skeletal system | ***Supports the body, protects organs, stores minerals, and makes blood cells.*** | ***Bones, cartilage, ligaments, joints*** |
+| 3 - Muscular system | ***Produces movement, maintains posture, and produces heat.*** | ***Skeletal muscles and tendons*** |
+| 4 - Nervous system | ***Controls rapid responses and detects changes inside and outside the body.*** | ***Brain, spinal cord, nerves, sensory receptors*** |
+| 5 - Endocrine system | ***Releases hormones that regulate body processes.*** | ***Pituitary, thyroid, adrenal glands, pancreas, ovaries/testes*** |
+| 6 - Cardiovascular system | ***Transports blood, oxygen, nutrients, hormones, and wastes.*** | ***Heart, blood, blood vessels*** |
+| 7 - Lymphatic/immune system | ***Returns fluid to blood and helps defend against disease.*** | ***Lymph nodes, lymph vessels, spleen, thymus, tonsils*** |
+| 8 - Respiratory system | ***Brings in oxygen and removes carbon dioxide.*** | ***Lungs, trachea, bronchi, nasal cavity, pharynx, larynx*** |
+| 9 - Digestive system | ***Breaks down food, absorbs nutrients, and eliminates solid waste.*** | ***Mouth, esophagus, stomach, intestines, liver, pancreas, gallbladder*** |
+| 10 - Urinary system | ***Removes nitrogenous wastes and regulates water, salts, and pH.*** | ***Kidneys, ureters, urinary bladder, urethra*** |
+| 11a - Male reproductive system | ***Produces sperm and male sex hormones.*** | ***Testes, epididymis, vas deferens, prostate, penis*** |
+| 11b - Female reproductive system | ***Produces eggs and female sex hormones; supports pregnancy.*** | ***Ovaries, uterine tubes, uterus, vagina, mammary glands*** |
 
 ## **Lab Activities**
 
@@ -331,21 +294,14 @@ Indicate in the boxes provided the deep and superficial positions.
 
 Use appropriate anatomical and regional terminology to fill in the blanks in the statements below.
 
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| \#                               | Fill in the blank                                                                                                                                                                                   |
-+==================================+=====================================================================================================================================================================================================+
-| 1                                | The elbow is located ***proximal*** to the wrist.                                                                                                                                                   |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2                                | The umbilicus is located ***inferior*** to the sternum.                                                                                                                                             |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3                                | The nose is located ***medial*** to the ears.                                                                                                                                                       |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4                                | The mouth is located ***superior*** to the chin.                                                                                                                                                    |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5                                | A papercut that does not penetrate the skin would be considered as a ***superficial*** wound; however, a puncture wound from a nail penetrating the skin would be considered as a ***deep*** wound. |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 6                                | A wound on the elbow would be ***superficial*** to the elbow.                                                                                                                                       |
-+----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| \# | Fill in the blank |
+|----|----|
+| 1 | The elbow is located ***proximal*** to the wrist. |
+| 2 | The umbilicus is located ***inferior*** to the sternum. |
+| 3 | The nose is located ***medial*** to the ears. |
+| 4 | The mouth is located ***superior*** to the chin. |
+| 5 | A papercut that does not penetrate the skin would be considered as a ***superficial*** wound; however, a puncture wound from a nail penetrating the skin would be considered as a ***deep*** wound. |
+| 6 | A wound on the elbow would be ***superficial*** to the elbow. |
 
 ## **Lab Activity 1.5**
 
@@ -353,15 +309,11 @@ Use appropriate anatomical and regional terminology to fill in the blanks in the
 
 Next, using the definition of anatomical position and correct anatomical language, take turns with your lab partner to give simple, one-movement verbal instructions to transition from the given starting positions (listed in the table below), so that the other person ends up in anatomical position. Write your detailed step-by-step instructions on the provided table.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Starting Position                                                                                                                                                              | Image                             | Instructions Given to Move to Anatomical Position                                                                                                                                                                                                                        |
-+================================================================================================================================================================================+===================================+==========================================================================================================================================================================================================================================================================+
-| Example: Standing from a Half Spinal Twist with the feet placed to the left, the torso twisted away from you and the head facing at a slight angle to the right, away from you | ![Figure 1.6](images/fig1.6.jpeg) | Example:<br><br>- Rotate the mental region anteriorly and medially.<br><br>- Rotate the entire body 180 degrees to the left.<br><br>- Position palmar region anteriorly                                                                                                  |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 1: From lying face-up on the ground with their head, back, hands, and feet on the floor with both knees bent                                                                   | ![Figure 1.7](images/fig1.7.jpeg) | ***Extend the knees so the lower limbs are straight.***<br><br>***Move the body from supine to standing upright.***<br><br>***Place the feet flat and facing anteriorly.***<br><br>***Place the upper limbs at the sides with the palmar regions facing anteriorly.***   |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2: From a seated position on the floor with their legs straight and arms folded across their chest                                                                             | ![Figure 1.8](images/fig1.8.jpeg) | ***Move the body from seated to standing upright.***<br><br>***Keep the head and eyes facing anteriorly.***<br><br>***Move the upper limbs from the thoracic region to the sides of the body.***<br><br>***Rotate the forearms so the palmar regions face anteriorly.*** |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Starting Position | Image | Instructions Given to Move to Anatomical Position |
+|----|----|----|
+| Example: Standing from a Half Spinal Twist with the feet placed to the left, the torso twisted away from you and the head facing at a slight angle to the right, away from you | ![Figure 1.6](images/fig1.6.jpeg) | Example:<br><br>- Rotate the mental region anteriorly and medially.<br><br>- Rotate the entire body 180 degrees to the left.<br><br>- Position palmar region anteriorly |
+| 1: From lying face-up on the ground with their head, back, hands, and feet on the floor with both knees bent | ![Figure 1.7](images/fig1.7.jpeg) | ***Extend the knees so the lower limbs are straight.***<br><br>***Move the body from supine to standing upright.***<br><br>***Place the feet flat and facing anteriorly.***<br><br>***Place the upper limbs at the sides with the palmar regions facing anteriorly.*** |
+| 2: From a seated position on the floor with their legs straight and arms folded across their chest | ![Figure 1.8](images/fig1.8.jpeg) | ***Move the body from seated to standing upright.***<br><br>***Keep the head and eyes facing anteriorly.***<br><br>***Move the upper limbs from the thoracic region to the sides of the body.***<br><br>***Rotate the forearms so the palmar regions face anteriorly.*** |
 
 ## **Lab Activity 1.6**
 
@@ -527,41 +479,26 @@ Ventral body cavities contain **membranes** = soft, thin, pliable layer of tissu
 
 #### **Table 1.3. [Abdominal](https://commons.wikimedia.org/w/index.php?curid=29624323Abdominal) Quadrants**
 
-+----------------------------------+---------------------------------------------------------------------------+
-| Quadrants                        | Organs                                                                    |
-+==================================+===========================================================================+
-| Right upper quadrant             | ***Liver, gallbladder, right kidney, small intestine***                   |
-+----------------------------------+---------------------------------------------------------------------------+
-| Right lower quadrant             | ***Cecum, appendix, right ovary/testis region, small intestine***         |
-+----------------------------------+---------------------------------------------------------------------------+
-| Left upper quadrant              | ***Stomach, spleen, left kidney, pancreas***                              |
-+----------------------------------+---------------------------------------------------------------------------+
-| Left lower quadrant              | ***Descending/sigmoid colon, left ovary/testis region, small intestine*** |
-+----------------------------------+---------------------------------------------------------------------------+
+| Quadrants | Organs |
+|----|----|
+| Right upper quadrant | ***Liver, gallbladder, right kidney, small intestine*** |
+| Right lower quadrant | ***Cecum, appendix, right ovary/testis region, small intestine*** |
+| Left upper quadrant | ***Stomach, spleen, left kidney, pancreas*** |
+| Left lower quadrant | ***Descending/sigmoid colon, left ovary/testis region, small intestine*** |
 
 #### **Table 1.4. Abdominal Regions**
 
-+----------------------------------+-------------------------------------------------------------+
-| Regions                          | Organs                                                      |
-+==================================+=============================================================+
-| left hypochondriac               | ***Spleen, left kidney, stomach***                          |
-+----------------------------------+-------------------------------------------------------------+
-| epigastric                       | ***Stomach, liver, pancreas***                              |
-+----------------------------------+-------------------------------------------------------------+
-| right hypochondriac              | ***Liver, gallbladder, right kidney***                      |
-+----------------------------------+-------------------------------------------------------------+
-| left lumbar                      | ***Descending colon, left kidney, small intestine***        |
-+----------------------------------+-------------------------------------------------------------+
-| umbilical                        | ***Small intestine, transverse colon***                     |
-+----------------------------------+-------------------------------------------------------------+
-| right lumbar                     | ***Ascending colon, right kidney, small intestine***        |
-+----------------------------------+-------------------------------------------------------------+
-| left iliac                       | ***Sigmoid colon, left ovary/uterine tube***                |
-+----------------------------------+-------------------------------------------------------------+
-| hypogastric                      | ***Urinary bladder, small intestine, reproductive organs*** |
-+----------------------------------+-------------------------------------------------------------+
-| right iliac                      | ***Cecum, appendix, right ovary/uterine tube***             |
-+----------------------------------+-------------------------------------------------------------+
+| Regions | Organs |
+|----|----|
+| left hypochondriac | ***Spleen, left kidney, stomach*** |
+| epigastric | ***Stomach, liver, pancreas*** |
+| right hypochondriac | ***Liver, gallbladder, right kidney*** |
+| left lumbar | ***Descending colon, left kidney, small intestine*** |
+| umbilical | ***Small intestine, transverse colon*** |
+| right lumbar | ***Ascending colon, right kidney, small intestine*** |
+| left iliac | ***Sigmoid colon, left ovary/uterine tube*** |
+| hypogastric | ***Urinary bladder, small intestine, reproductive organs*** |
+| right iliac | ***Cecum, appendix, right ovary/uterine tube*** |
 
 ![](images/_page_19_Figure_0.jpeg)
 
@@ -577,33 +514,20 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 
 **Table 1.5 Organ systems and their Organs**
 
-+----------------------------------+---------------------------------------------------------------------------+
-| Organ System                     | Organs                                                                    |
-+==================================+===========================================================================+
-| 1 - Integumentary system         | ***Skin, hair, nails, sweat glands, oil glands***                         |
-+----------------------------------+---------------------------------------------------------------------------+
-| 2 - Skeletal system              | ***Bones, cartilage, ligaments, joints***                                 |
-+----------------------------------+---------------------------------------------------------------------------+
-| 3 - Muscular system              | ***Skeletal muscles and tendons***                                        |
-+----------------------------------+---------------------------------------------------------------------------+
-| 4 - Nervous system               | ***Brain, spinal cord, nerves, sensory receptors***                       |
-+----------------------------------+---------------------------------------------------------------------------+
-| 5 - Endocrine system             | ***Pituitary, thyroid, adrenal glands, pancreas, ovaries/testes***        |
-+----------------------------------+---------------------------------------------------------------------------+
-| 6 - Cardiovascular system        | ***Heart, blood, blood vessels***                                         |
-+----------------------------------+---------------------------------------------------------------------------+
-| 7 - Lymphatic/immune system      | ***Lymph nodes, lymph vessels, spleen, thymus, tonsils***                 |
-+----------------------------------+---------------------------------------------------------------------------+
-| 8 - Respiratory system           | ***Lungs, trachea, bronchi, nasal cavity, pharynx, larynx***              |
-+----------------------------------+---------------------------------------------------------------------------+
-| 9 - Digestive system             | ***Mouth, esophagus, stomach, intestines, liver, pancreas, gallbladder*** |
-+----------------------------------+---------------------------------------------------------------------------+
-| 10 - Urinary system              | ***Kidneys, ureters, urinary bladder, urethra***                          |
-+----------------------------------+---------------------------------------------------------------------------+
-| 11a - Male reproductive system   | ***Testes, epididymis, vas deferens, prostate, penis***                   |
-+----------------------------------+---------------------------------------------------------------------------+
-| 11b - Female reproductive system | ***Ovaries, uterine tubes, uterus, vagina, mammary glands***              |
-+----------------------------------+---------------------------------------------------------------------------+
+| Organ System | Organs |
+|----|----|
+| 1 - Integumentary system | ***Skin, hair, nails, sweat glands, oil glands*** |
+| 2 - Skeletal system | ***Bones, cartilage, ligaments, joints*** |
+| 3 - Muscular system | ***Skeletal muscles and tendons*** |
+| 4 - Nervous system | ***Brain, spinal cord, nerves, sensory receptors*** |
+| 5 - Endocrine system | ***Pituitary, thyroid, adrenal glands, pancreas, ovaries/testes*** |
+| 6 - Cardiovascular system | ***Heart, blood, blood vessels*** |
+| 7 - Lymphatic/immune system | ***Lymph nodes, lymph vessels, spleen, thymus, tonsils*** |
+| 8 - Respiratory system | ***Lungs, trachea, bronchi, nasal cavity, pharynx, larynx*** |
+| 9 - Digestive system | ***Mouth, esophagus, stomach, intestines, liver, pancreas, gallbladder*** |
+| 10 - Urinary system | ***Kidneys, ureters, urinary bladder, urethra*** |
+| 11a - Male reproductive system | ***Testes, epididymis, vas deferens, prostate, penis*** |
+| 11b - Female reproductive system | ***Ovaries, uterine tubes, uterus, vagina, mammary glands*** |
 
 ## **Post Lab Activity: Review material**
 
